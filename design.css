@@ -19,3 +19,27 @@ body{
     width: 100%;
     height: auto;
 }
+
+.topnavigation{
+    background-color: lightgrey;
+    padding-left: 35px;
+    padding-top: 15px;
+    padding-bottom: 8px;
+}
+
+.topnavigation a{
+    display: inline-block;
+    border: black solid 1px;
+    font-size: 15px;
+    color: black;
+    padding: 13px;
+    width: 150px;
+    text-decoration: none;
+
+}
+
+.topnavigation a:hover{
+   color: white;
+   background-color: grey;
+
+}
