@@ -14,6 +14,8 @@ body{
     background-color: #2A6495;
 }
 
-.articleimg{
-    width: 750px;
+.articleimg {
+    border: thin solid red;
+    width: 100%;
+    height: auto;
 }
